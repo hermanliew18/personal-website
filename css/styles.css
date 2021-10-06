@@ -1,0 +1,81 @@
+body {
+  margin:0;
+  text-align: center;
+
+}
+
+h1 {
+  margin:50px auto 0 auto;
+  font-family: 'Merriweather', serif;
+  font-size: 90px;
+  color:#8fbc8f;
+}
+
+h2 {
+  color: #8fbc8f;
+  margin:50px auto 0 auto;
+}
+
+h3 {
+  color: #8fbc8f;
+  text-align:center;
+}
+
+p{
+  font-family: 'Sacramento', cursive;
+}
+
+.Profilepic{
+  border-radius:50%;
+  height:15%;
+  width: 15%;
+}
+
+.skills{
+  font-family: 'Sacramento', cursive;
+}
+
+.journey-png {
+  height:50px;
+  width:50px;
+}
+
+.reading-png{
+  height:50px;
+  width:50px;
+}
+.top-container {
+  background-color: #5f9ea0;
+  position:relative;
+  padding-top:100px;
+}
+
+.middle-container {
+  background-color: #00bfff;
+}
+
+.bottom-container {
+
+}
+
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left: 300px;
+  right: 300px;
+}
+
+.code-png {
+  height:50px;
+  width: 50px;
+}
+
+.shaking-hands-png {
+  height:50px;
+  width:50px;
+}
